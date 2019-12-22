@@ -1,0 +1,26 @@
+{
+  "name": "node-christmas",
+  "version": "1.0.0",
+  "description": "My fun, poorly-written Christmas project that I made at 2 AM. By popular demand, I am posting this project on GitHub.",
+  "main": "christmas.js",
+  "scripts": {
+    "test": "node christmas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zane-programs/node-christmas.git"
+  },
+  "keywords": [
+    "christmas"
+  ],
+  "author": "Zane St. John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zane-programs/node-christmas/issues"
+  },
+  "homepage": "https://github.com/zane-programs/node-christmas#readme",
+  "dependencies": {
+    "wemo-client": "^0.15.0",
+    "hue-bridge-emulator": "tim-hellhake/hue-bridge-emulator"
+  }
+}

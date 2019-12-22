@@ -1,3 +1,6 @@
+# for copyright purposes
+*.wav
+
 # Logs
 logs
 *.log
