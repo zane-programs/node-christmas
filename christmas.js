@@ -1,5 +1,5 @@
 const Wemo = require('wemo-client');
-const HueBridgeEmulator = require('../hue-bridge-emulator');
+const HueBridgeEmulator = require('hue-bridge-emulator');
 
 const wemo = new Wemo();
 
